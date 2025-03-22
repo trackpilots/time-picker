@@ -1,6 +1,6 @@
 {
   "name": "@trackpilots/time-picker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A customizable time picker component for React, built with Tailwind CSS.",
   "main": "src/index.js",
   "module": "src/index.js",
