@@ -22,7 +22,6 @@ const DateFilter = ({
   useEffect(() => {
     if (selectedDate) {
       const defaultTime = new Date(selectedDate);
-      defaultTime.setHours(12, 0, 0, 0);
       setChoosenValue(defaultTime);
     }
   }, [selectedDate]);
